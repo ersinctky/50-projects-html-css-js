@@ -13,4 +13,5 @@
 | 07  | [Split Landing Page](https://github.com/ersinctky/50-projects-html-css-js/tree/main/07-split-landing-page)     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/07-split-landing-page/index.html)   |
 | 08  | [Form Wave Animation](https://github.com/ersinctky/50-projects-html-css-js/tree/main/08-form-wave-animation)   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/08-form-wave-animation/index.html)  |
 | 09  | [Sound Board](https://github.com/ersinctky/50-projects-html-css-js/tree/main/09-sound-board)                   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/09-sound-board/index.html)          |
-| 10  | [Sound Board](https://github.com/ersinctky/50-projects-html-css-js/tree/main/10-dad-jokes)                     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/10-dad-jokes/index.html)            |
+| 10  | [Dad Jokes](https://github.com/ersinctky/50-projects-html-css-js/tree/main/10-dad-jokes)                       | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/10-dad-jokes/index.html)            |
+| 11  | [Event Key Codes](https://github.com/ersinctky/50-projects-html-css-js/tree/main/11-event-key-codes)           | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/11-event-key-codes/index.html)      |
