@@ -15,3 +15,4 @@
 | 09  | [Sound Board](https://github.com/ersinctky/50-projects-html-css-js/tree/main/09-sound-board)                   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/09-sound-board/index.html)          |
 | 10  | [Dad Jokes](https://github.com/ersinctky/50-projects-html-css-js/tree/main/10-dad-jokes)                       | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/10-dad-jokes/index.html)            |
 | 11  | [Event Key Codes](https://github.com/ersinctky/50-projects-html-css-js/tree/main/11-event-key-codes)           | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/11-event-key-codes/index.html)      |
+| 12  | [Faq Collapse](https://github.com/ersinctky/50-projects-html-css-js/tree/main/12-faq-collapse)                 | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/12-faq-collapse/index.html)         |
