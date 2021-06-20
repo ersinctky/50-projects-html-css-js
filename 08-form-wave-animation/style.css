@@ -1,11 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background: radial-gradient(circle at 100%, rgb(21, 40, 56), rgb(136, 164, 187) 50%, #eee 75%, steelblue 75%);
+  background: radial-gradient(
+    circle at 100%,
+    rgb(21, 40, 56),
+    rgb(136, 164, 187) 25%,
+    #eee 50%,
+    steelblue 50%
+  );
   color: #fff;
   display: flex;
   flex-direction: column;
