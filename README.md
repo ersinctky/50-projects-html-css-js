@@ -17,3 +17,5 @@
 | 11  | [Event Key Codes](https://github.com/ersinctky/50-projects-html-css-js/tree/main/11-event-key-codes)           | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/11-event-key-codes/index.html)      |
 | 12  | [Faq Collapse](https://github.com/ersinctky/50-projects-html-css-js/tree/main/12-faq-collapse)                 | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/12-faq-collapse/index.html)         |
 | 13  | [Random Choice Picker](https://github.com/ersinctky/50-projects-html-css-js/tree/main/13-random-choice-picker) | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/13-random-choice-picker/index.html) |
+| 14  | [Animated Navigation](https://github.com/ersinctky/50-projects-html-css-js/tree/main/14-animated-navigation)   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/14-animated-navigation/index.html)  |
+| 15  | [Incrementing Counter](https://github.com/ersinctky/50-projects-html-css-js/tree/main/15-incrementing-counter) | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/15-incrementing-counter/index.html) |
