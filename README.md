@@ -19,3 +19,4 @@
 | 13  | [Random Choice Picker](https://github.com/ersinctky/50-projects-html-css-js/tree/main/13-random-choice-picker) | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/13-random-choice-picker/index.html) |
 | 14  | [Animated Navigation](https://github.com/ersinctky/50-projects-html-css-js/tree/main/14-animated-navigation)   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/14-animated-navigation/index.html)  |
 | 15  | [Incrementing Counter](https://github.com/ersinctky/50-projects-html-css-js/tree/main/15-incrementing-counter) | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/15-incrementing-counter/index.html) |
+| 16  | [Drink Water](https://github.com/ersinctky/50-projects-html-css-js/tree/main/16-drink-water)                   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/16-drink-water/index.html)          |
