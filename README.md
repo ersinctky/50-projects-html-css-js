@@ -30,3 +30,4 @@
 | 24  | [Content Placeholder](https://github.com/ersinctky/50-projects-html-css-js/tree/main/24-content-placeholder)       | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/24-content-placeholder/index.html)    |
 | 25  | [Sticky Navbar](https://github.com/ersinctky/50-projects-html-css-js/tree/main/25-sticky-navbar)                   | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/25-sticky-navbar/index.html)          |
 | 26  | [Double Vertical Slider](https://github.com/ersinctky/50-projects-html-css-js/tree/main/26-double-vertical-slider) | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/26-double-vertical-slider/index.html) |
+| 27  | [Double Vertical Slider](https://github.com/ersinctky/50-projects-html-css-js/tree/main/27-toast-notification)     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/27-toast-notification/index.html)     |
