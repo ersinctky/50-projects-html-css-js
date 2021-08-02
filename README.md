@@ -34,3 +34,4 @@
 | 28  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/28-github-profiles)               | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/28-github-profiles/index.html)        |
 | 29  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/29-double-heart-click)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/29-double-heart-click/index.html)     |
 | 30  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/30-auto-text-effect)              | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/30-auto-text-effect/index.html)       |
+| 31  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/31-password-generator)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/31-password-generator/index.html)     |
