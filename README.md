@@ -36,3 +36,4 @@
 | 30  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/30-auto-text-effect)              | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/30-auto-text-effect/index.html)           |
 | 31  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/31-password-generator)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/31-password-generator/index.html)         |
 | 32  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/32-good-cheap-fast-checkboxes)    | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/32-good-cheap-fast-checkboxes/index.html) |
+| 33  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/33-notes-app)                     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/33-notes-app/index.html)                  |
