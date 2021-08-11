@@ -39,3 +39,4 @@
 | 33  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/33-notes-app)                     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/33-notes-app/index.html)                  |
 | 34  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/34-animated-countdown)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/34-animated-countdown/index.html)         |
 | 35  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/35-image-carousel)                | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/35-image-carousel/index.html)             |
+| 36  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/36-hoverboard-effect)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/356-hoverboard-effect/index.html)         |
