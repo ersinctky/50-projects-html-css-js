@@ -44,3 +44,4 @@
 | 38  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/38-mobile-tab-navigation)         | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/38-mobile-tab-navigation/index.html)        |
 | 39  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/39-password-strength-background)  | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/39-password-strength-background/index.html) |
 | 40  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/40-3d-background-boxes)           | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/40-3d-background-boxes/index.html)          |
+| 41  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/41-verify-account-ui)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/41-verify-account-ui/index.html)            |
