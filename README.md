@@ -48,3 +48,4 @@
 | 42  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/42-live-user-filter)              | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/42-live-user-filter/index.html)             |
 | 43  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/43-feedback-ui-design)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/43-feedback-ui-design/index.html)           |
 | 44  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/44-custom-range-slider)           | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/44-custom-range-slider/index.html)          |
+| 45  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/45-netflix-navigation)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/45-netflix-navigation/index.html)           |
