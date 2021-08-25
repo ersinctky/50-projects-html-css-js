@@ -51,3 +51,4 @@
 | 45  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/45-netflix-navigation)            | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/45-netflix-navigation/index.html)           |
 | 46  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/46-quiz-app)                      | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/46-quiz-app/index.html)                     |
 | 47  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/47-testimonial-box-switcher)      | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/47-testimonial-box-switcher/index.html)     |
+| 48  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/48-random-image-feed)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/48-random-image-feed/index.html)            |
