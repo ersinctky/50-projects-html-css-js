@@ -52,3 +52,4 @@
 | 46  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/46-quiz-app)                      | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/46-quiz-app/index.html)                     |
 | 47  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/47-testimonial-box-switcher)      | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/47-testimonial-box-switcher/index.html)     |
 | 48  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/48-random-image-feed)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/48-random-image-feed/index.html)            |
+| 49  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/49-todo-list)                     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/49-todo-list/index.html)                    |
