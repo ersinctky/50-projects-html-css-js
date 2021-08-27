@@ -53,3 +53,4 @@
 | 47  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/47-testimonial-box-switcher)      | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/47-testimonial-box-switcher/index.html)     |
 | 48  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/48-random-image-feed)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/48-random-image-feed/index.html)            |
 | 49  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/49-todo-list)                     | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/49-todo-list/index.html)                    |
+| 50  | [Github Profiles](https://github.com/ersinctky/50-projects-html-css-js/tree/main/50-insect-catch-game)             | [Live Demo](https://ersinctky.github.io/50-projects-html-css-js/50-insect-catch-game/index.html)            |
